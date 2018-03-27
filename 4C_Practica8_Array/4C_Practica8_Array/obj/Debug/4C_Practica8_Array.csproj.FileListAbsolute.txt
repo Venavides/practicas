@@ -1,0 +1,9 @@
+c:\users\166a109037\documents\visual studio 2015\Projects\4C_Practica8_Array\4C_Practica8_Array\bin\Debug\4C_Practica8_Array.exe.config
+c:\users\166a109037\documents\visual studio 2015\Projects\4C_Practica8_Array\4C_Practica8_Array\bin\Debug\4C_Practica8_Array.exe
+c:\users\166a109037\documents\visual studio 2015\Projects\4C_Practica8_Array\4C_Practica8_Array\bin\Debug\4C_Practica8_Array.pdb
+c:\users\166a109037\documents\visual studio 2015\Projects\4C_Practica8_Array\4C_Practica8_Array\obj\Debug\4C_Practica8_Array.csprojResolveAssemblyReference.cache
+c:\users\166a109037\documents\visual studio 2015\Projects\4C_Practica8_Array\4C_Practica8_Array\obj\Debug\_4C_Practica8_Array.Form1.resources
+c:\users\166a109037\documents\visual studio 2015\Projects\4C_Practica8_Array\4C_Practica8_Array\obj\Debug\_4C_Practica8_Array.Properties.Resources.resources
+c:\users\166a109037\documents\visual studio 2015\Projects\4C_Practica8_Array\4C_Practica8_Array\obj\Debug\4C_Practica8_Array.csproj.GenerateResource.Cache
+c:\users\166a109037\documents\visual studio 2015\Projects\4C_Practica8_Array\4C_Practica8_Array\obj\Debug\4C_Practica8_Array.exe
+c:\users\166a109037\documents\visual studio 2015\Projects\4C_Practica8_Array\4C_Practica8_Array\obj\Debug\4C_Practica8_Array.pdb
